@@ -1,0 +1,16 @@
+Tue Jun  3 14:15:46 2025  Rob Lauer  <rlauer6@comcast.net>
+
+	[BigBang]:
+	* .gitignore: new
+	* ChangeLog: new
+	* Makefile: new
+	* README.md: new
+	* bin/decode-token: new
+	* buildspec.yml: new
+	* lib/Amazon/Cognito/DecodeToken.pm: new
+	* requires: new
+	* t/00-decode-token.t: new
+	* test-requires: new
+
+
+

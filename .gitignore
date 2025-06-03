@@ -1,0 +1,4 @@
+provides
+extra-files
+resources
+*.tar.gz
