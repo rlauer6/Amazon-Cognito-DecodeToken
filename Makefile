@@ -5,7 +5,7 @@ MODULE = Amazon::Cognito::DecodeToken
 PERL_MODULES = \
     lib/Amazon/Cognito/DecodeToken.pm
 
-VERSION := $(shell perl -I lib -M$(MODULE) -e 'print $$BLM::Startup::S3::VERSION;')
+VERSION := $(shell perl -I lib -M$(MODULE) -e 'print $$Amzon::Cognito::DecodeToken::VERSION;')
 
 TARBALL = Amazon-Cognito-DecodeToken-$(VERSION).tar.gz
 

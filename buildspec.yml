@@ -15,11 +15,11 @@ path:
 extra-files:
   - ChangeLog
 resources:
-  homepage: http://github.com/rlauer6/amazon-cognito-decodetoken.git
+  homepage: http://github.com/rlauer6/Amazon-Cognito-DecodeToken.git
   bugtracker:
-    web: http://github.com/rlauer6/amazon-cognito-decodetoken/issues
+    web: http://github.com/rlauer6/Amazon-Cognito-DecodeToken/issues
     mailto: rlauer6@comcast.net
   repository:
-    url: git://github.com/rlauer6/amazon-cognito-decodetoken.git
-    web: http://github.com/rlauer6/amazon-cognito-decodetoken
+    url: git://github.com/rlauer6/Amazon-Cognito-DecodeToken.git
+    web: http://github.com/rlauer6/Amazon-Cognito-DecodeToken
     type: 'git'

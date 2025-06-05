@@ -1,3 +1,9 @@
+Thu Jun  5 10:23:48 2025  Rob Lauer  <rlauer6@comcast.net>
+
+	[0.01]:
+	* Makefile: fix version source
+	* buildspec.yml: fix repo name
+
 Tue Jun  3 14:15:46 2025  Rob Lauer  <rlauer6@comcast.net>
 
 	* README-INSTALL.md: new
